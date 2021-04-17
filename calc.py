@@ -7,5 +7,9 @@ def add(a, b)
 def minus(a, b)
     ans = a - b
 
+#multiplication
+def times(a, b)
+    ans = a * b
+
 
 # cal(3,4)
