@@ -1,2 +1,6 @@
 def cal(a, b);
-    pass
+    sum = a + b 
+    #print(sum)
+
+
+# cal(3,4)
