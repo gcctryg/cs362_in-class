@@ -1,17 +1,11 @@
 #summation
-def add(a, b)
-    sum = a + b 
-    #print(sum)
+def cal(a, b)
+    summation = a + b 
 
-#subtraction
-def minus(a, b)
-    ans = a - b
+    subtraction = a - b
 
-#multiplication
-def times(a, b)
-    ans = a * b
+    multiplication = a * b
 
-#division
-def div(a, b)
-    ans = a / b
+    division = a / b
 
+myList = [summation, subtraction, multiplication, division]
