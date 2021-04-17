@@ -11,5 +11,7 @@ def minus(a, b)
 def times(a, b)
     ans = a * b
 
+#division
+def div(a, b)
+    ans = a / b
 
-# cal(3,4)
